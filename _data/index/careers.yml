@@ -16,15 +16,50 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Intrasoft International
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Full stack software development for POS Payments and Special Corporate Offers projects for our COSMOTE
+            Telecommunications client.
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Q&R
+    i18n: company_qnr
+  desc:
+    detail: Development of scalable single-page web application with RESTful APIs leveraging
+            a variety of technologies, frameworks and libraries. Our client was CEDEFOP and the project was the Europass
+            CV Editor (around 1million unique users per month).
+            My tasks covered all the phases of the project's lifecycle, from technical architecture and design to
+            implementation, maintenance and support.
+            Backbone JS module development that used RESTful endpoints in the backend.
+            Functional testing with Junit and Jasmine.
+    i18n: company_b_desc
+  date:
+    detail: Oct. 2014
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Intrasoft International
+    i18n: company_b
+  desc:
+    detail: Full stack software development for POS Payments projects for our COSMOTE  client.
+    i18n: company_b_desc
+  date:
+    detail: Oct. 2013
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
     i18n: company_b_job
   icon: fa-plus-square
