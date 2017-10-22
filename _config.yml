@@ -25,8 +25,8 @@ author:  # change following line to your infomation.
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
-    - name: mongodb
-    - name: shell
+   # - name: mongodb
+   # - name: shell
   desc: I have 4 years of professional experience in the design and development of digital products, backed by a solid
         background in Computer Science.
         In this time, I have become an engineer who is capable of rapidly gaining ownership of a project and pushing
