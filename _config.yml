@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
-    - name: fa-linux
+    - name: fa-mongodb
     - name: icon-apache
   desc: I have 4 years of professional experience in the design and development of digital products, backed by a solid
         background in Computer Science.
