@@ -28,11 +28,11 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
   desc: I have 4 years of professional experience in the design and development of digital products, backed by a solid
-background in Computer Science.
-In this time, I have become an engineer who is capable of rapidly gaining ownership of a project and pushing
-it to success in competitive environments.
-My strengths include performance analysis and tuning, researching and finding the right tooling to fit an
-underlying business problem and the ability to quickly resolve problems on emergency situations.   # Describe yourself.
+        background in Computer Science.
+        In this time, I have become an engineer who is capable of rapidly gaining ownership of a project and pushing
+        it to success in competitive environments.
+        My strengths include performance analysis and tuning, researching and finding the right tooling to fit an
+        underlying business problem and the ability to quickly resolve problems on emergency situations.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
