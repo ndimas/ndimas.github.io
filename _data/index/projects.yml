@@ -13,7 +13,7 @@
   i18n: europass
 #  gh_user: testingtime
 #  repo: testingtime
-  img: /static/assets/img/landing/europass_logo-milestone-100M.png
+  img: /static/assets/img/landing/europass.png
   url: https://europass.cedefop.europa.eu/editors/de/cv/compose
   desc: A document to present your skills and qualifications effectively and clearly
 
