@@ -7,7 +7,7 @@
 #  repo: testingtime
   img: /static/assets/img/landing/testingtime.png
   url: https://testingtime.com
-#  desc: We recruit test users - for usability tests, focus groups, interviews, surveys and more.
+  desc: We recruit test users - for usability tests, focus groups, interviews, surveys and more.
 
 - name: Europass
   i18n: europass
@@ -15,6 +15,6 @@
 #  repo: testingtime
   img: /static/assets/img/landing/europass_logo-milestone-100M.png
   url: https://europass.cedefop.europa.eu/editors/de/cv/compose
-#  desc: <a href='https://europass.cedefop.europa.eu/editors/de/cv/compose'>A document to present your skills and qualifications effectively and clearly </a>
+  desc: A document to present your skills and qualifications effectively and clearly
 
 
