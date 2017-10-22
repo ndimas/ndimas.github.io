@@ -4,7 +4,7 @@
 - 
 - name: TestingTime
   i18n: testingtime
-  gh_user: testingtime
-  repo: testingtime
-  img: /static/assets/img/landing/python.png
+#  gh_user: testingtime
+#  repo: testingtime
+#  img: /static/assets/img/landing/python.png
   desc: Thousands of unbiased test users.
