@@ -63,3 +63,17 @@
     detail: Software Engineer
     i18n: company_b_job
   icon: fa-plus-square
+  
+  - name:
+    detail: University of Thessaly, Department of Computer Engineering 
+    i18n: company_b
+  desc:
+    detail: Graduate Computer Science Student
+    i18n: company_b_desc
+  date:
+    detail: Sept. 2007
+    i18n: company_b_date
+  job:
+    detail: M.Sc. in Computer Engineering and Communications
+    i18n: company_b_job
+  icon: fa-plus-square
