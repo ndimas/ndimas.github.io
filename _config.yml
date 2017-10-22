@@ -23,9 +23,9 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
-   # - name: fa-linux
+    - name: 
   skill_icon2:
-   # - name: mongodb
+    - name: mongodb
     - name: fa-linux
   desc: I have 4 years of professional experience in the design and development of digital products, backed by a solid
         background in Computer Science.
