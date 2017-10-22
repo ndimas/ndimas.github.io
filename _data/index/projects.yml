@@ -7,13 +7,13 @@
 #  gh_user: testingtime
 #  repo: testingtime
   img: /static/assets/img/landing/testingtime.png
-  desc: We recruit test users - for usability tests, focus groups, interviews, surveys and more.
+#  desc: We recruit test users - for usability tests, focus groups, interviews, surveys and more.
 
 - name: Europass
   i18n: europass
 #  gh_user: testingtime
 #  repo: testingtime
   img: /static/assets/img/landing/europass_logo-milestone-100M.png
-  desc: <a href='https://europass.cedefop.europa.eu/editors/de/cv/compose'>A document to present your skills and qualifications effectively and clearly </a>
+#  desc: <a href='https://europass.cedefop.europa.eu/editors/de/cv/compose'>A document to present your skills and qualifications effectively and clearly </a>
 
 
