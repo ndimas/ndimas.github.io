@@ -68,12 +68,12 @@
     detail: University of Thessaly, Department of Computer Engineering
     i18n: company_b
   desc:
-    detail: M.Sc. in Computer Engineering and Communications
+    detail: Graduated with a M.Sc. in Computer Engineering and Communications
     i18n: company_b_desc
   date:
-    detail: Sept. 2007
+    detail: Jul. 2014
     i18n: company_b_date
   job:
-    detail: Graduate Computer Science Student
+    detail: Computer Science Graduate
     i18n: company_b_job
   icon: fa-plus-square
